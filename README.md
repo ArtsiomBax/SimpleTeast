@@ -1,1 +1,1 @@
-# SimpleTeast
+# Simple JUnit Test
